@@ -1,0 +1,1 @@
+export default function Teams(){return (<div className='container'><a href='/main' className='small'>← Back</a><main className='card'><h1>Teams</h1><p className='small'>View teams in Tournament -> Teams</p></main></div>)}

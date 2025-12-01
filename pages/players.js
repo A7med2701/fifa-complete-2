@@ -1,0 +1,1 @@
+export default function Players(){return (<div className='container'><a href='/main' className='small'>← Back</a><main className='card'><h1>Players</h1><p className='small'>View players in Tournament -> Players</p></main></div>)}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Black Flash",
+    "logo": "/0b4a32ca-f03a-49b3-adc8-000649410815.png",
+    "captain": "1318604809288417364",
+    "played": 2,
+    "goalsFor": 14,
+    "goalsAgainst": 2,
+    "points": 6
+  },
+  {
+    "id": 2,
+    "name": "Espanyol",
+    "logo": "/7a7c93f5-322b-44b1-a158-e81256094367.png",
+    "captain": "222222",
+    "played": 2,
+    "goalsFor": 6,
+    "goalsAgainst": 3,
+    "points": 3
+  }
+]
